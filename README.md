@@ -10,7 +10,7 @@ Las relaciones de desigualdad entre sexos surgen de un sistema machista patriarc
 
 - El 49.9% de las mujeres en la Ciudad de México han sido violentadas en los espacios públicos:
 
-![gráfica-prevalencia-violencia-mujeres]()
+![gráfica-prevalencia-violencia-mujeres](https://github.com/Pau-za/Hackaton-marzo-2019-CCL-MX/blob/master/imgs/precalencia-violencia-mujeres.PNG)
 
 - Las formas de agresión más comunes en el transporte publico en el 2011 fueron:
     - Las agresiones físicas: 11.44%
@@ -19,19 +19,19 @@ Las relaciones de desigualdad entre sexos surgen de un sistema machista patriarc
     - Forzar a la víctima a mirar actos sexuales o imágenes obscenas: 15.68%
     - Las frases ofensivas de carácter sexual: 3.6%
 
-![actos-violentos]()
+![actos-violentos](https://github.com/Pau-za/Hackaton-marzo-2019-CCL-MX/blob/master/imgs/actos-violentos.PNG)
 
 - 77% de las mujeres capitalinas se sienten inseguras de vivir y/o transitar en la CDMX.
 
 - La mayor parte de los delitos sexuales cometidos contra mujeres fueron perpetrados por la tarde, noche y madrugada:
 
-![horario-violencia-sexual]()
+![horario-violencia-sexual](https://github.com/Pau-za/Hackaton-marzo-2019-CCL-MX/blob/master/imgs/horario-delitos-sexuales.PNG)
 
 - El 78% de las mujeres que fueron víctimas de alguna agresión sexual se encontraban solas al momento del ataque.
 
 - Las edades de las mujeres que reportaron haber sido violentadas, van de los 20 a los 39 años.
 
-![edades-mujeres-violentadas]()
+![edades-mujeres-violentadas](https://github.com/Pau-za/Hackaton-marzo-2019-CCL-MX/blob/master/imgs/edad-mujeres-v%C3%ADctimas.PNG)
 
 Algunos de los actos violentos mencionados anteriormente, pueden parecer "poco violentos" o "normales". Sin embargo, es esencial prestar atención a ellos, ya que actos como los piropos callejeros son la base de un sistema estructural discriminatorio y de una cultura de odio hacia las mujeres. Al existir un sistema basado en la impunidad y la corrupción, y al estar normalizados los actos violentos hacia las mujeres, estos pueden escalas hasta llegar a la expresión en su forma más extrema, el feminicidio.
 
