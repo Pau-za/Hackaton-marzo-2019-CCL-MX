@@ -96,10 +96,15 @@ Y las razones por las que las usuarias creen tener esta percepción sobre la seg
 ![razones-percepción-seguridad](https://github.com/Pau-za/Hackaton-marzo-2019-CCL-MX/blob/master/imgs/razones-percepcion-seguridad.png)
 
 Aquí mostramos algunas de las respuestas:
+
 "Por las constantes ocasiones en las que me han violentado y por el conocimiento que tengo de los sucesos de violencia que se llegan a dar dentro de las instalaciones."
+
 "Por las noticias que leo y la poca seguridad que he visto."
+
 "Porque me siento observada por la gente al bajar.. Y en las salidas de las estaciones hay mucha inseguridad esta cerca la salida y sientes como si te faltarán mil metros por avanzar."
+
 "No respetan los vagones exclusivos para mujeres, los vendedores ambulantes me dan miedo."
+
 "Hay muchos casos donde las mujeres son raptadas en el metro y hay poca seguridad."
 
 
@@ -124,11 +129,15 @@ Cuando les preguntamos a las encuestadas su opinión respecto a que los hombres 
 ![por-que-hombres-vagones-exclusivos](https://github.com/Pau-za/Hackaton-marzo-2019-CCL-MX/blob/master/imgs/por-que-hombres-vagones-exclusivos.png)
 
 Podemos observar que se repiten las palabras relacionadas con el respeto, mujeres, hombres, problema, vulnerables, reglas, seguridad, exclusivos, espacio. Aqupi mostramos algunas respuestas textuales:
+
 "Me parece que aunque no hacen daño pero habla de que no saben respetar."
-"Es una muestra simbólica del nulo respeto que nos tienen. A nosotras y a las reglas de convivencia cívica. 
-Que las autoridades aún son poco efectivas para velar porque se respeten esos espacios y se castigue a quien no lo haga."
+
+"Es una muestra simbólica del nulo respeto que nos tienen. A nosotras y a las reglas de convivencia cívica. Que las autoridades aún son poco efectivas para velar porque se respeten esos espacios y se castigue a quien no lo haga."
+
 "Cuando me ha tocado ver a un hombre en el vagon exclusivo para mujeres es porque pertenece al grupo de la tercera edad o algún grupo vulnerable, por ejemplo con alguna discapacidad; sin embargo, cuando un hombre accede a estos vagones sin necesidad alguna me parece que es acoso en toda la extensión de la palabra."
+
 "Que son hombres incómodos.. que no les gusta acatar reglas o simplemente los veo y los percibo retadores."
+
 "Que es una falta de respeto. Si es exclusivo para mujeres no tienen porque subirse."
 
 En la siguiente gráfica 1 = Nada molesto, y 5 = Muy molesto:
@@ -137,13 +146,18 @@ En la siguiente gráfica 1 = Nada molesto, y 5 = Muy molesto:
 
 Les preguntamos si alguna vez le habían pedido a un hombre que fuera viajando en el vagón exclusivo, que descendiera del mismo, y en la nube de palabras podemos observar que se repite la palabra _nunca_, pero también _sí_, entre otras:
 
-![petición-descender-hombres-vagones-exclusivos]https://github.com/Pau-za/Hackaton-marzo-2019-CCL-MX/blob/master/imgs/peticion-hombres-descender.png)
+![petición-descender-hombres-vagones-exclusivos](https://github.com/Pau-za/Hackaton-marzo-2019-CCL-MX/blob/master/imgs/peticion-hombres-descender.png)
 
 Esto sugiere que muchas mujeres no exigen que se respete su derecho a viajar seguras y tranquilas en el metro. A continuación presentamos algunas respuestas:
+
 "Sí y la respuesta fue agresiva y no se bajó."
+
 "Sí lo he hecho y se molestan, pero es más molesto ver que sus acompañantes (mujeres) se enojan más."
+
 "No no lo he hecho... Evito ser agredida."
+
 "Si les he pedido que se bajen del vagón y se pasen a otro.. pero se ríen y no lo hacen en incluso hay mujeres que dicen 'pero si no viene haciendo nada.. qué te quita que venga aquí..a parte viene con su novia'."
+
 "El chico se excusó con que venía con un familiar mujer, nadie más me apoyó, solo miraron y su familiar le dijo q no hiciera caso, por lo tanto el chico se quedó en el vagón."
 
 Pero están seguras de que las acciones para lograr que se respete ese derecho, van encaminadas a lo siguiente:
@@ -151,9 +165,13 @@ Pero están seguras de que las acciones para lograr que se respete ese derecho, 
 ![acciones-respeto-vagones-exclusivos](https://github.com/Pau-za/Hackaton-marzo-2019-CCL-MX/blob/master/imgs/sugerencia-acciones.png)
 
 Aquí se presentan algunas respuestas:
+
 "Mas guardias. Multas para el que no respete."
+
 "Que se refuerce la seguridad en los vagones que son exclusivos y en general que entre mujeres nos apoyemos cuando alguna se queje porque alguien rompa con esta indicación."
+
 "Que nos apoyemos entre mujeres para lograr que respeten nuestro espacio y que la policía haga su trabajo."
+
 "Que haya más vigilancia entre nosotras mismas, unirnos para que respetuosamente les podamos que salgan. La pregunta es ¿Cómo hacer que unas a otras nos apoyemos? No lo sé. Yo ayudo a otras cuando lo necesitan pero no sé cómo hacer para lograr una mayor cohesión entre mujeres."
 
 Bajo el contexto que obtuvimos con nuestra investigación, detectamos los problemas a atacar:
