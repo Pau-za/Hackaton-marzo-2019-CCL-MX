@@ -199,6 +199,9 @@ Cuando una usuaria decide apoyar a la que activó la alerta, automáticamente co
 
 Al final de cada evento en el que se activó la alerta, le pedimos a las usuarias involucradas que califiquen su experiencia, de esta manera podremos conocer si la ayuda está llegando, y la efectividad de la aplicación.
 
-### Prototipo de baja fidelidad
-
 ### Prototipo de alta fidelidad
+En la siguiente liga podemos observar el modelo de alta fidelidad de [SororiHelp!](https://www.figma.com/file/Q23T0YF5jP5moiC30HGOHdce/SororiHelp!?node-id=0%3A1).
+
+### Modelo de Negocio
+
+![modelo-negocio]()
