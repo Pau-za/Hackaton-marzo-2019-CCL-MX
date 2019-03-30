@@ -5,6 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link href="https://fonts.googleapis.com/css?family=Assistant|Cabin|Dosis|Hind" rel="stylesheet">
     <link rel="stylesheet" href="style.css">
     <title>SororiHelp!</title>
 </head>
@@ -13,21 +14,34 @@
     <header><img class="header-img" src="./assets/metro_img_short.jpg" alt="subway_image"></header>
 
     <section id="initial-page">
-        <h4>Página de inicio</h4>
+        <h2>Login</h2>
+        <h4>Bienvenida a SororiHelp!</h4>
+        <p>Un espacio para crear sororidad</p>
+        <button>Registro</button>
+        <button>Ingreso</button>
     </section>
 
     <section id="instructions-page">
-        
+        <h2>¿Cómo funciona SororiHelp?</h2>
         <h4>Página donde se encontrará el carrusel</h4>
     </section>
 
     <section id="send-violet-alert">
-        <h4>Mandar alerta violeta</h4>
-        <button>presiona aqui</button>
+        <p>Si sientes que te encuentras<br>
+            en una situación de riesgo,</br>
+            aprieta el botón para pedir ayuda</br>
+            a una Sorori</p>
+        <button id="send-alert" class="help-button">AYUDA</button>
     </section>
 
     <section id="alert-form">
-
+        <h3>Activaste la Alerta Violeta</h3>
+        <h3>Por favor, indícanos lo que está pasando:</h3>
+        <button class="options">Hombre en el vagón exclusivo</button>
+        <button class="options">Me siento insegura</button>
+        <h3>¿Quieres ser más específica?</h3>
+        <p>(Este campo puede quedar vacío si necesitas rapidez)</p>
+        <textarea name="situation-description" id="situation-description" cols="50" rows="10"></textarea>
     </section>
 
     <section id="map-helper">
