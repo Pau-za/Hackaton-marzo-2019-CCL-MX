@@ -77,31 +77,23 @@ Solamente 3 de las encuestadas dijeron nunca utilizar el metro. 13 de ellas afir
 
 El 43 mujeres manifestaron haber sido violentadas al viajar en el transporte público:
 
-![mujeres-violentadas-transporte-público]()
+![mujeres-violentadas-transporte-público](https://github.com/Pau-za/Hackaton-marzo-2019-CCL-MX/blob/master/imgs/proporci%C3%B3n-violencia-encuestas.PNG)
 
 El 63% de las mujeres que fueron violentadas reportó no haber recibido ayuda en dichos eventos, y el 26.5% indicó que solo algunas veces recibió ayuda.
 
-![mujeres-recibieron-ayuda]()
+![mujeres-recibieron-ayuda](https://github.com/Pau-za/Hackaton-marzo-2019-CCL-MX/blob/master/imgs/recibir-ayuda.PNG)
 
 Es interesante observar que es poco frecuente que las pasajeras que son violentadas pocas veces reciben ayuda de alguien.
 
-![quienes-ayudan]()
+![quienes-ayudan](https://github.com/Pau-za/Hackaton-marzo-2019-CCL-MX/blob/master/imgs/quienes-ayudaron.PNG)
 
 La percepción de la seguridad en el metro de la CDMX fue calificada en una escala de 0 a 5, donde 0 = nada segura, y 5 = muy segura.
 
-![percepción-seguridad]()
+![percepción-seguridad](https://github.com/Pau-za/Hackaton-marzo-2019-CCL-MX/blob/master/imgs/percepcion-seguridad-metro.PNG)
 
 Y las razones por las que las usuarias creen tener esta percepción sobre la seguridad en el metro se están asociadas a las palabras que podemos leer en la siguiente nube:
 
-![razones-percepción-seguridad]()
-
-27 encuestadas utilizan los vagones exclusivos siempre que viajan en metro, y 19 los utilizan a veces. 
-
-![utilidad-vagones-exclusivos]()
-
-Sin embargo, esta es la opinión de las encuestadas sobre la existencia de los vagones exclusivos:
-
-![opinión-vagones-exclusivos]()
+![razones-percepción-seguridad](https://github.com/Pau-za/Hackaton-marzo-2019-CCL-MX/blob/master/imgs/razones-percepcion-seguridad.png)
 
 Aquí mostramos algunas de las respuestas:
 "Por las constantes ocasiones en las que me han violentado y por el conocimiento que tengo de los sucesos de violencia que se llegan a dar dentro de las instalaciones."
@@ -110,17 +102,26 @@ Aquí mostramos algunas de las respuestas:
 "No respetan los vagones exclusivos para mujeres, los vendedores ambulantes me dan miedo."
 "Hay muchos casos donde las mujeres son raptadas en el metro y hay poca seguridad."
 
+
+27 encuestadas utilizan los vagones exclusivos siempre que viajan en metro, y 19 los utilizan a veces. 
+
+![utilidad-vagones-exclusivos](https://github.com/Pau-za/Hackaton-marzo-2019-CCL-MX/blob/master/imgs/utilidad-vagones-exclusivos.PNG)
+
+Sin embargo, esta es la opinión de las encuestadas sobre la existencia de los vagones exclusivos:
+
+![opinión-vagones-exclusivos](https://github.com/Pau-za/Hackaton-marzo-2019-CCL-MX/blob/master/imgs/opinion-vagones-exclusivos.PNG)
+
 La razón principal por la que las usuarias viajan en los vagones exclusivos es por seguridad:
 
-![por-qué-vagones-exclusivos]()
+![por-qué-vagones-exclusivos](https://github.com/Pau-za/Hackaton-marzo-2019-CCL-MX/blob/master/imgs/razon-utilizan-vagones-exclusivos.PNG)
 
 Solamente 5 encuestadas respondieron que nunca se han encontrado con hombres viajando en los vagones de mujeres:
 
-![frecuencia-hombres-vagones-exclusivos]()
+![frecuencia-hombres-vagones-exclusivos](https://github.com/Pau-za/Hackaton-marzo-2019-CCL-MX/blob/master/imgs/frecuencia-invasion-vagones-exclusivos.PNG)
 
 Cuando les preguntamos a las encuestadas su opinión respecto a que los hombres viajen en el vagón de mujeres, contestaron lo siguiente:
 
-![por-que-hombres-vagones-exclusivos]()
+![por-que-hombres-vagones-exclusivos](https://github.com/Pau-za/Hackaton-marzo-2019-CCL-MX/blob/master/imgs/por-que-hombres-vagones-exclusivos.png)
 
 Podemos observar que se repiten las palabras relacionadas con el respeto, mujeres, hombres, problema, vulnerables, reglas, seguridad, exclusivos, espacio. Aqupi mostramos algunas respuestas textuales:
 "Me parece que aunque no hacen daño pero habla de que no saben respetar."
@@ -130,13 +131,13 @@ Que las autoridades aún son poco efectivas para velar porque se respeten esos e
 "Que son hombres incómodos.. que no les gusta acatar reglas o simplemente los veo y los percibo retadores."
 "Que es una falta de respeto. Si es exclusivo para mujeres no tienen porque subirse."
 
-Lo que nos da un indicio de que las usuarias toman la acción de los hombres que viajan en estos espacios, como una agresión y una manera de violentar los espacios de y para mujeres. Lo que corroboramos al observar la siguiente gráfica, donde 1 = Nada molesto, y 5 = Muy molesto:
+En la siguiente gráfica 1 = Nada molesto, y 5 = Muy molesto:
 
-![molestia-hombres-vagones-exclusivos]()
+![molestia-hombres-vagones-exclusivos](https://github.com/Pau-za/Hackaton-marzo-2019-CCL-MX/blob/master/imgs/molestia-hombres-invasores.PNG)
 
 Les preguntamos si alguna vez le habían pedido a un hombre que fuera viajando en el vagón exclusivo, que descendiera del mismo, y en la nube de palabras podemos observar que se repite la palabra _nunca_, pero también _sí_, entre otras:
 
-![molestia-hombres-vagones-exclusivos]()
+![petición-descender-hombres-vagones-exclusivos]https://github.com/Pau-za/Hackaton-marzo-2019-CCL-MX/blob/master/imgs/peticion-hombres-descender.png)
 
 Esto sugiere que muchas mujeres no exigen que se respete su derecho a viajar seguras y tranquilas en el metro. A continuación presentamos algunas respuestas:
 "Sí y la respuesta fue agresiva y no se bajó."
@@ -147,9 +148,8 @@ Esto sugiere que muchas mujeres no exigen que se respete su derecho a viajar seg
 
 Pero están seguras de que las acciones para lograr que se respete ese derecho, van encaminadas a lo siguiente:
 
-![acciones-respeto-vagones-exclusivos]()
+![acciones-respeto-vagones-exclusivos](https://github.com/Pau-za/Hackaton-marzo-2019-CCL-MX/blob/master/imgs/sugerencia-acciones.png)
 
-Es decir, necesitamos apoyarnos entre mujeres, ya que muchas relataron experiencias en las que pedían a los hombres que estaban invadiendo los espacios exclusivos, pero como no recibieron apoyo de otras mujeres, desistieron en su intento, o ni siquiera se atrevieron a pedir el apoyo por miedo a no recibir ninguna clase de apoyo. Otras sugerencias estuvieron involucradas con la policía, quien necesita asegurarse de que los hombres no accedan a los espacios exclusivos, y que si llegan a hacerlo, que exista una sanción real.
 Aquí se presentan algunas respuestas:
 "Mas guardias. Multas para el que no respete."
 "Que se refuerce la seguridad en los vagones que son exclusivos y en general que entre mujeres nos apoyemos cuando alguna se queje porque alguien rompa con esta indicación."
