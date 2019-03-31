@@ -204,4 +204,4 @@ En la siguiente liga podemos observar el modelo de alta fidelidad de [SororiHelp
 
 ### Modelo de Negocio
 
-![modelo-negocio]()
+![modelo-negocio](https://github.com/Pau-za/Hackaton-marzo-2019-CCL-MX/blob/master/imgs/modelo-negocio.jpeg)
