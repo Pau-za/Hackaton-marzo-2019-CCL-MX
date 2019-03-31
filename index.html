@@ -7,6 +7,8 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <link href="https://fonts.googleapis.com/css?family=Assistant|Cabin|Dosis|Hind" rel="stylesheet">
     <link rel="stylesheet" href="style.css">
+    <script src="http://js.api.here.com/v3/3.0/mapsjs-core.js" type="text/javascript" charset="utf-8"></script>
+    <script src="http://js.api.here.com/v3/3.0/mapsjs-service.js" type="text/javascript" charset="utf-8"></script>
     <title>SororiHelp!</title>
 </head>
 
@@ -18,15 +20,35 @@
         <h4>Bienvenida a SororiHelp!</h4>
         <p>Un espacio para crear sororidad</p>
         <button>Registro</button>
-        <button>Ingreso</button>
+        <button id="get-in">Ingreso</button>
     </section>
 
-    <section id="instructions-page">
+    <section id="instructions-page" class="hide">
         <h2>¿Cómo funciona SororiHelp?</h2>
-        <h4>Página donde se encontrará el carrusel</h4>
+        <div class="button" onclick="shiftLeft()"><img src="https://image.ibb.co/mRsEb7/left_arrow.png" alt=""></div>
+        <div class="cards-wrapper">
+            <h2>Instrucciones</h2>
+            <ul class="cards__container">
+
+                <li class="box"> <img src="./assets/instrucciones-1.jpeg"></li>
+
+                <li class="box"> <img src="./assets/instrucciones-2.jpeg"></li>
+
+                <li class="box"><img src="./assets/instrucciones-3.jpeg"></li>
+
+                <li class="box"><img src="./assets/instrucciones-4.jpeg"></li>
+            </ul>
+
+            <div class="card__text-content">
+            </div>
+        </div>
+        <div class="button" onclick="shiftRight()"><img src="https://image.ibb.co/dfPSw7/right_arrow.png" alt=""></div>
+
+        </div>
+        <button id="start">Comenzar</button>
     </section>
 
-    <section id="send-violet-alert">
+    <section id="send-violet-alert" class="hide">
         <p>Si sientes que te encuentras<br>
             en una situación de riesgo,</br>
             aprieta el botón para pedir ayuda</br>
@@ -34,24 +56,33 @@
         <button id="send-alert" class="help-button">AYUDA</button>
     </section>
 
-    <section id="alert-form">
+    <section id="alert-chat" class="hide">
         <h3>Activaste la Alerta Violeta</h3>
-        <h3>Por favor, indícanos lo que está pasando:</h3>
-        <button class="options">Hombre en el vagón exclusivo</button>
-        <button class="options">Me siento insegura</button>
-        <h3>¿Quieres ser más específica?</h3>
-        <p>(Este campo puede quedar vacío si necesitas rapidez)</p>
-        <textarea name="situation-description" id="situation-description" cols="50" rows="10"></textarea>
+        <p>Escribe tu mensaje, y espera a que más mujeres se unan al chat</p>
+        <img id="chat" src="./assets/chat-demo.png" alt="chat">
+
+        <input type="text">
+
+        <button class="send-msj-chat">Enviar</button>
+        <p>Por favor avísanos cuando haya terminado lasituación de alerta</p>
+        <button id="ended">Terminó</button>
     </section>
 
-    <section id="map-helper">
-
+    <section id="evaluation" class="hide">
+        <h4>Por favor, platícanos tu experiencia</h4>
+        <textarea name="experience" id="experience" cols="50" rows="20"></textarea>
+        <h4>Haznos saber si necesitas ayuda de algún tipo:</h4>
+        <button>Psicológica</button>
+        <button>Legal</button>
+        <button>Acompañamiento</button>
+        <button>No necesito, gracias</button>
+        <button>Salir de la app</button>
     </section>
 
-    <section id="alert-screen">
+    <section id="alert-screen" class="hide">
 
     </section>
-
+    <script src="app.js"></script>
 </body>
 
 </html>
